@@ -9,6 +9,7 @@
  *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
  * };
  */
+//cpp
 class Solution {
 public:
     void fun(TreeNode* root,vector<int>&v){
